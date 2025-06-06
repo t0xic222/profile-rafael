@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import GlobalStyles from './styles/GlobalStyles';
 import Header from './components/Header/Header';
-import Hero from './components/Hero/Hero';
+//import Hero from './components/Hero/Hero';
 import About from './components/About/About';
 import Experience from './components/Experience/Experience';
 import Skills from './components/Skills/Skills';
@@ -148,7 +148,7 @@ function App() {
       />
       
       <Header />
-      <Hero />
+      {/* <Hero /> */}
       <About />
       <Experience />
       <Skills />
