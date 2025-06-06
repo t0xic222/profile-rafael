@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { FaCode, FaLaptopCode, FaTools, FaRocket } from 'react-icons/fa';
+import { FaCode, FaLaptopCode, FaRocket } from 'react-icons/fa';
 
 const ObjectiveSection = styled.section`
   padding: 8rem 0;
