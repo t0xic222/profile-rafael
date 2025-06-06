@@ -37,7 +37,7 @@ curriculo-site/
 │   │   ├── Experience/
 │   │   ├── Footer/
 │   │   ├── Header/
-│   │   ├── Hero/
+│   │   ├── Hero/ 
 │   │   ├── Objective/
 │   │   └── Skills/
 │   ├── styles/
@@ -72,7 +72,7 @@ npm run build
 
 ## Seções do Site
 
-- **Hero**: Apresentação inicial com animação de partículas 3D
+- **Hero**: Apresentação inicial com animação de partículas 3D **//Descontinuado**
 - **Sobre**: Informações pessoais e profissionais
 - **Experiência**: Timeline interativa mostrando a trajetória profissional
 - **Competências**: Visualização gráfica das habilidades técnicas com filtros
